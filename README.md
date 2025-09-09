@@ -4,6 +4,9 @@ Este é um jogo simples e divertido inspirado no clássico "Detona Ralph", onde 
 
 ![Texto Alternativo da Imagem](./src/images/capa.png)
 
+## Link para o jogo
+<https://fbamorim.github.io/detona-ralph-jogo/>
+
 ## 🚀 Tecnologias Utilizadas
 O projeto foi construído inteiramente com tecnologias web front-end padrão.
 

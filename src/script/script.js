@@ -30,7 +30,7 @@ function startGame() {
   state.view.startButton.classList.add('hidden');
 
   state.values.resultScore = 0;
-  state.values.currentTime = 15;
+  state.values.currentTime = 30;
   state.values.lives = 3;
 
   state.view.score.textContent = state.values.resultScore;
